@@ -1,26 +1,47 @@
-# Corte 1 – Comprendiendo el problema
+# Proyecto Ingeniería de Software: Grupo #5
 
-Proyecto: Falta de constancia en la práctica del ejercicio físico Grupo #5
+Temática: Falta de constancia en la práctica del ejercicio físico.
 
 ### 📌 Descripción
 
-Este primer corte del proyecto tiene como objetivo comprender la problemática de la falta de constancia en la práctica del ejercicio físico. Para ello, se aplicaron las etapas de empatía y definición de la metodología Design Thinking, enfocándose en distintos perfiles de usuarios: jóvenes en etapa académica, adultos con múltiples responsabilidades y adultos mayores.
+Este repositorio contiene la documentación, entregables y gestión del proyecto desarrollado para el curso CC3058 – Ingeniería de Software 1.  
 
-El desarrollo incluye la identificación de perfiles de usuarios y usuarios extremos, la aplicación de la técnica Qué, Cómo y Por qué, el framework AEIOU, la codificación de entrevistas y la elaboración de mapas de empatía. A partir del análisis de los hallazgos, se identificaron insights, necesidades y oportunidades, evidenciando que la falta de constancia no se debe únicamente a la falta de interés, sino también a factores externos y emocionales como el tiempo, la rigidez de horarios, la falta de acompañamiento social y la dependencia de la motivación momentánea.
+La estructura está organizada de manera que facilite la revisión, el control de versiones y el seguimiento del trabajo realizado durante todo el semestre.
 
-Este análisis permite establecer una definición clara de la problemática, que guiará las siguientes etapas del proyecto.
+## 📂 Estructura del Repositorio
 
-### 🧠 Metodología
+### 📁 Avances
+Contiene los documentos preliminares entregados durante el desarrollo progresivo del proyecto.
 
-Design Thinking
+- 📁 Avance-1  
+- 📁 Avance-2  
 
-Etapa de Empatía
+Cada carpeta incluye los documentos, o materiales solicitados en esa fase.
 
-Etapa de Definición
+---
 
-### 🔗 Documento del proyecto
+### 📁 Cortes
+Contiene las entregas formales evaluadas en cada corte académico.
 
-Google Docs: https://docs.google.com/document/d/1XJ-TJgD-FcWgj25ftcv-5jmLRnr06AtFX63MusczwBg/edit?usp=sharing 
+- 📁 Corte-1  
+- 📁 Corte-2  
+
+Cada carpeta puede incluir:
+- Documento final en PDF
+- Presentaciones
+- Diagramas
+- Prototipos
+
+---
+
+### 📁 Formuñatios LOGT
+Cada integrante mantiene un formulario LOGT personal que se actualiza continuamente durante el semestre.
+
+Cada archivo:
+- Registra el tiempo trabajado en cada fase
+- Se actualiza periódicamente
+- Permite evidenciar participación y gestión del tiempo
+
 
 ### 👥 Integrantes- Grupo #5
 
