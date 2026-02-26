@@ -40,7 +40,7 @@ Cada integrante mantiene un formulario LOGT personal que se actualiza continuame
 Cada archivo:
 - Registra el tiempo trabajado en cada fase
 - Se actualiza periódicamente
-- Permite evidenciar participación y gestión del tiempo
+- Permite evidenciar participación y gestión del tiempo: lo más reciente está hasta arriba y resaltado
 
 
 ### 👥 Integrantes- Grupo #5
