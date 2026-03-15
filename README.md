@@ -34,13 +34,7 @@ Cada carpeta puede incluir:
 
 ---
 
-### 📁 Formuñatios LOGT
-Cada integrante mantiene un formulario LOGT personal que se actualiza continuamente durante el semestre.
-
-Cada archivo:
-- Registra el tiempo trabajado en cada fase
-- Se actualiza periódicamente
-- Permite evidenciar participación y gestión del tiempo: lo más reciente está hasta arriba y resaltado
+### Los formularios LOGT ahora están en cada carpeta del Corte correspondiente
 
 
 ### 👥 Integrantes- Grupo #5
