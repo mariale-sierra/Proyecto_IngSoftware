@@ -2,8 +2,8 @@
 
 Temática: Falta de constancia en la práctica del ejercicio físico.
 
-DOCUMENTO CORTE 3: https://uvggt-my.sharepoint.com/:w:/g/personal/sie24405_uvg_edu_gt/IQAgUb3UXvPjQbKG9vnB7O3YAfQj4uk2hxyPveggI9Xp6_g?e=bMOIc3 
-
+Link a repositorio backend: https://github.com/mariale-sierra/backend.git 
+Link a repositorio frontend: https://github.com/mariale-sierra/frontend.git 
 ### 📌 Descripción
 
 Este repositorio contiene la documentación, entregables y gestión del proyecto desarrollado para el curso CC3058 – Ingeniería de Software 1.  
